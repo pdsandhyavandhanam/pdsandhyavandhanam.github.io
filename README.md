@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome !!. This is a minimalistic page created to learn about Sandhyavandhanam for Pudur Dravid Community. 
 
 You can use the [editor on GitHub](https://github.com/pdsandhyavandhanam/pdsandhyavandhanam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
