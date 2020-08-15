@@ -1,15 +1,8 @@
 ## Welcome !!. This is a minimalistic page created to learn about Sandhyavandhanam for Pudur Dravid Community. 
 
-You can use the [editor on GitHub](https://github.com/pdsandhyavandhanam/pdsandhyavandhanam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is Sandhya Vandhanam ? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+It is a salutation to the Source inside the Sun God which is driving the three levels of worlds in the universe. Rather than me explaining, I want to take the help of a sanskrit scholor who explained it really well [Here](https://youtu.be/KNavIyIBHTI)
 
 # Header 1
 ## Header 2
